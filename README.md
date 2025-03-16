@@ -1,7 +1,6 @@
-# Maltimart Ecommerce
+# FastMart Ecommerce
 
-## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
+
 
 ## 😎 Features
 
@@ -24,25 +23,5 @@ https://multimart-ecommerce.onrender.com
 From your command line, first clone this repo:
 
 ```
-# Clone this repository
-$ https://github.com/0mar-helal/multimart-react-ecommerce.git
 
-# Go into the repository
-$ cd multimart-react-ecommerce
 
-# Remove current origin repository
-$ git remote remove origin
-
-```
-
-Then you can install the dependencies using NPM:
-
-```
-# Install dependencies
-$ npm install
-
-# Start development server
-$ npm start
-```
-👨‍💻 Happy coding!
----
